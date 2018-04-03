@@ -50,14 +50,12 @@ Working directory structure
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: _static/work_dir.png
-   :align: center
    :width: 60%
    
    
 Pipeline directory structure
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. figure:: _static/pipeline_dir.png
-   :align: center
    :width: 40%
    
    
