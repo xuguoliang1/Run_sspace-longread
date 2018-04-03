@@ -10,7 +10,7 @@ which is nearly 10 times faster.
 Run_sspace-longread is free for academic and non-profit use 
 (see :ref:`License <license>`).
 
-对于Run_sspace-longread, 采取mecat和Minimap2替换的版本, 可以下其中文文档 `Chinese document <https://github.com/xuguoliang1/Run_sspace-longread/edit/master/source/Run_sspace-longread_v1.4_document.pdf>`__
+对于Run_sspace-longread, 采取mecat和Minimap2替换的版本, 可以下其中文文档 `Chinese document <https://raw.githubusercontent.com/xuguoliang1/Run_sspace-longread/master/source/Run_sspace-longread_v1.4_document.pdf>`__
 
 
 .. figure:: _static/Run_sspace-longread.png
