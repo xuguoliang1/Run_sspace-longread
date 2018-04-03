@@ -50,7 +50,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Run_sspace-longread'
-copyright = u'2018, Novogene'
+copyright = u'2018, xuguoliang'
 author = u'xuguoliang'
 
 # The version info for the project you're documenting, acts as replacement for
