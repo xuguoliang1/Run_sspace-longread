@@ -14,6 +14,7 @@ To install Run_sspace-longread just type the following commands:
 ::
 
     tar zxvf Run_sspace-longread.tar.gz
+    #All dependency packages exist
 
 Installation by yourself
 ----------------------------------------------------------------
