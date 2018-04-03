@@ -3,7 +3,7 @@
 License
 -------
 
-Copyright (c) 2018-2019, Xu guoliang, Novogene, China
+Copyright (c) 2018-2019, Xu guoliang, China
 (here and after addressed as Inventors)
 All Rights Reserved
 
